@@ -9,7 +9,7 @@ namespace StorageAssist.Services.Commands
 {
     public class LogCommand
     {
-        private readonly string path;
+        private readonly string path = "../StorageAssistLog/log.txt";
 
         public void Log(List<LogMessage> logMessages)
         {
@@ -17,6 +17,7 @@ namespace StorageAssist.Services.Commands
             {
                 string logtext = $"[{logMessage.Severity} {logMessage.Date}| {logMessage.Type} || {logMessage.Message}]";
                 Console.WriteLine(logtext);
+
             }
         }
     }
