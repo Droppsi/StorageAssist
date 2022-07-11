@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StorageAssist.UWP", "Storag
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StorageAssist.Android", "StorageAssist\StorageAssist.Android\StorageAssist.Android.csproj", "{EE3477AF-5E64-4C6B-AFB8-F4529F4DA5EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StorageAssist", "StorageAssist\StorageAssist\StorageAssist.csproj", "{A878E933-DF5A-43DE-9921-4A3D1084415C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StorageAssist", "StorageAssist\StorageAssist\StorageAssist.csproj", "{A878E933-DF5A-43DE-9921-4A3D1084415C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
