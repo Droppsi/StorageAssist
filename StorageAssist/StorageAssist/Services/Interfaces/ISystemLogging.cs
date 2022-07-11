@@ -4,7 +4,7 @@ using System.Text;
 using StorageAssist.Enums;
 using StorageAssist.Models;
 
-namespace StorageAssist.Services
+namespace StorageAssist.Services.Interfaces
 {
     internal interface ISystemLogging
     {

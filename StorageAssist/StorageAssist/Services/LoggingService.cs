@@ -4,10 +4,11 @@ using System.Threading.Tasks;
 using StorageAssist.Enums;
 using StorageAssist.Models;
 using StorageAssist.Services.Commands;
+using StorageAssist.Services.Interfaces;
 
 namespace StorageAssist.Services
 {
-    
+
     public class LoggingService : ISystemLogging
     {
         public List<LogMessage> logMessages;

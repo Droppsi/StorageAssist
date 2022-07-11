@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace StorageAssist.Services
+namespace StorageAssist.Services.Interfaces
 {
     public interface IDataStore<T>
     {

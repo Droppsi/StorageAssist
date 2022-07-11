@@ -1,4 +1,5 @@
 ﻿using StorageAssist.Models;
+using StorageAssist.Services.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;

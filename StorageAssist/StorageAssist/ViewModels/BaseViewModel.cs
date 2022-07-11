@@ -1,5 +1,5 @@
 ﻿using StorageAssist.Models;
-using StorageAssist.Services;
+using StorageAssist.Services.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
