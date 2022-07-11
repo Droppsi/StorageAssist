@@ -4,3 +4,8 @@
 
 /.vs
 
+**/bin
+**/obj
+
+/StorageAssist/StorageAssist\.Android/bin 
+
